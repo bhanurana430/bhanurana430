@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanurana430&label=Profile%20views&color=0e75b6&style=flat" alt="bhanurana430" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhanurana430" alt="bhanurana430" /></a> </p>
+
 
 - 🔭 I’m currently working on **Reinforcement Learning and AlgoTrading**
 
