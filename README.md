@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Time Series Forecasting and Algotrading**
+- 🔭 I’m currently working on **Time Series Forecasting**
 
 - 🌱 I’m currently learning **TimeSeries, Reinforcement Learning**
 
