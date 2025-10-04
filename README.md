@@ -5,13 +5,10 @@
 
 
 
-- 🔭 I’m currently working on **Time Series Forecasting**
+- 🔭 I’m currently working on **GenAI - LLMs & STT**
 
 - 🌱 I’m currently learning **TimeSeries, Reinforcement Learning**
 
-- 🤝 I’m looking for help with **Reinforcement Learning**
-
-- 📫 How to reach me **bhanurana430@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
